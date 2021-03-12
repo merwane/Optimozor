@@ -12,7 +12,7 @@
     "core-js": "^2.6.5",
     "html2canvas": "^1.0.0-rc.3",
     "html2pdf.js": "^0.9.1",
-    "jspdf": "^1.5.3",
+    "jspdf": "^2.3.1",
     "vue": "^2.6.6",
     "vue-router": "^3.0.1",
     "vue-social-sharing": "^2.4.5",
